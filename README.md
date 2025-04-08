@@ -18,6 +18,7 @@ Python Software
 
 # ALGORITHMS
 IDEAL SAMPLING:
+
 Define the input signal 
 𝑥
 (
@@ -51,6 +52,7 @@ x(t) by the impulse train to obtain ideally sampled signal.
 Plot both original and sampled signals for comparison.
 
 NATURAL SAMPLING:
+
 Define the input signal 
 𝑥
 (
@@ -96,6 +98,7 @@ x(t) by the pulse train.
 Plot and analyze the natural sampled output waveform.
 
 FLAT TOP SAMPLING:
+
 Define the input signal 
 𝑥
 (
@@ -138,25 +141,37 @@ Plot the original and flat top sampled signals for comparison.
 
 # PROGRAM
 IDEAL SAMPLING
+
+
 ![ideal sampling](https://github.com/user-attachments/assets/c6b3db33-e0c3-43b0-86e7-96b0e21ca19a)
 
 NATURAL SAMPLING
+
+
 ![NATURAL SAMPLING 1](https://github.com/user-attachments/assets/19d53515-7c69-480e-8953-ed69f2a470c1)
 ![NATURAL SAMPLING 2](https://github.com/user-attachments/assets/0841bdff-af08-4caa-ad04-85ce38e6ab09)
 
 FLAT TOP SAMPLING
+
+
 ![FLAT TOP SAMPLING](https://github.com/user-attachments/assets/c830b3af-d549-40ab-bb1c-9fdc31ee7a93)
 
 
 
 # OUTPUT
 IDEAL SAMPLING
+
+
 ![ideal sampling output](https://github.com/user-attachments/assets/5440d9f3-dfdb-46b4-9284-b8e5db891ed5)
 
 NATURAL SAMPLING
+
+
 ![NATURAL SAMPLING OUTPUT](https://github.com/user-attachments/assets/6e99a4d4-1f87-45ab-b3d4-3a211b63829a)
 
 FLAT TOP SAMPLING
+
+
 ![FLAT TOP SAMPLING OUTPUT](https://github.com/user-attachments/assets/37bf2bf2-f4a6-44cd-b5d9-e0e28e118e28)
 
 
